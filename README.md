@@ -10,5 +10,5 @@ Repositório para testes<br>
 <br><br>
 
 >Tecnologias:<br>
-*Java;<br>
-*MySQL;<br>
+* Java;<br>
+* MySQL;<br>
