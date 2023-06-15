@@ -5,7 +5,7 @@ Repositório para testes<br>
 
 >Status do projeto: Em desenvolvimento.
 
-<p>Este repositóporio está sendo usado para fazer experimentos e testes na linguagem java.</p>
+<p>Este repositóporio está sendo usado para fazer experimentos e testes na linguagem Java.</p>
 
 <br><br>
 
