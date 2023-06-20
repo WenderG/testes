@@ -1,7 +1,9 @@
 <h1> Testes </h1>
 <br>
 
-Repositório para testes<br>
+<h2>Repositório para testes</h2>
+
+<br>
 
 >Status do projeto: Em desenvolvimento.
 
